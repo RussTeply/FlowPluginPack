@@ -6,7 +6,7 @@
 /*
  * This is the basic test
  */
- 
+ @isTest
  public with sharing class testSendEmailFlowPlugin { 
  
  
